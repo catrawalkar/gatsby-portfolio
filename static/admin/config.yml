@@ -2,7 +2,7 @@ backend: # Set up your backend
   name: gitlab
   repo: "https://gitlab.com/catrawalkar/netlify-cms"
   auth_type: implicit
-  app_id: "17442267"
+  app_id: "2c16e34b642480ee076992de3201ba78cc13f2e26620c215eba7416fb5d3ba31"
 
 # local_backend: true # Optional if you want to use the local proxy mode
 
