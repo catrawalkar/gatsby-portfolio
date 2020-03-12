@@ -1,7 +1,7 @@
 backend: # Set up your backend
-  name: github
+  name: git-gateway
   repo: "https://github.com/catrawalkar/gatsby-portfolio"
-  # auth_type: implicit
+  auth_type: implicit
   # app_id: "2c16e34b642480ee076992de3201ba78cc13f2e26620c215eba7416fb5d3ba31"
 
 local_backend: true # Optional if you want to use the local proxy mode
